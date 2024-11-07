@@ -27,6 +27,10 @@ Here are some apps that I've developed:
   🔍 allows you to search multiple sites at once by entering a search term.  
   🔗 [GitHub Repository](https://github.com/yato-developer/matomete_kensaku)
 
+- **App 2: GitHub Repository Search**  
+  🔭 service to search github repositories.  
+  🔗 [GitHub Repository](https://github.com/yato-developer/matomete_kensaku)
+
 <br>
 
 
