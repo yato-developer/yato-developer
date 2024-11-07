@@ -29,7 +29,7 @@ Here are some apps that I've developed:
 
 - **App 2: GitHub Repository Search**  
   🔭 service to search github repositories.  
-  🔗 [GitHub Repository](https://github.com/yato-developer/matomete_kensaku)
+  🔗 [GitHub Repository](https://github.com/yato-developer/github-repository-search)
 
 <br>
 
